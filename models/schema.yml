@@ -1,0 +1,5 @@
+version: 2
+
+models:
+  # greg_wine_transform
+  - name: greg_wine_transform
